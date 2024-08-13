@@ -177,6 +177,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@valdaarhun](https://github.com/valdaarhun)
 - [@AnirudhPanda](https://github.com/AnirudhPanda)
 - [@GideonBabu](https://github.com/GideonBabu)
+- [@NOFAXKING](https://github.com/NOFAXKING)
 - [@abu-hasib](https://github.com/abu-hasib)
 - [@AnkitaMandal](https://github.com/GoGi2712)
 - [@vipul1298](https://github.com/vipul1298)
